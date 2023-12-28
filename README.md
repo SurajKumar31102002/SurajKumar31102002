@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/suraj-kumar-139493226/](https://www.linkedin.com/in/suraj-kumar-139493226/)
 
-- 💬 Ask me about **JAVA,HTML,CSS**
+- 💬 Ask me about **JAVA,HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **skysurajkumar8@gmail.com**
 
